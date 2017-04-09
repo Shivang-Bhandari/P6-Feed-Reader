@@ -1,5 +1,5 @@
-#Testing Project
-
+# Testing Project
+ 
 #### About Feed Reader
 
 * In this project Jasmine Testing Suite was Used to test for various conditions and functionality of
